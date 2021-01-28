@@ -11,4 +11,5 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="quote_edit">Création / Modification</string>
+    <string name="menu_vehicule">Vehicule</string>
 </resources>
